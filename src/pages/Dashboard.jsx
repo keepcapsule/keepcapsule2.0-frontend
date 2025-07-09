@@ -7,7 +7,7 @@ import {
   Tooltip,
   Legend
 } from 'chart.js';
-import 'react-image-lightbox/style.css';
+import "../styles/react-lightbox.css";
 import Lightbox from 'react-image-lightbox';
 import { uploadFileToS3 } from '../utils/uploadFileToS3';
 

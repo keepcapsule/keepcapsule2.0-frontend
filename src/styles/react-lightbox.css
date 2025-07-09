@@ -1,0 +1,9 @@
+.ril__outer {
+    background-color: rgba(0, 0, 0, 0.85);
+    z-index: 1000;
+  }
+  .ril__toolbar, .ril__caption, .ril__navButtons {
+    position: absolute;
+  }
+  /* Add more rules from the real style file if needed */
+  
